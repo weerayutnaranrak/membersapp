@@ -2,10 +2,13 @@
   "name": "memberapp",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://188.166.249.70:8000",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios-react": "^1.1.9",
+    "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
